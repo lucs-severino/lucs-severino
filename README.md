@@ -8,6 +8,7 @@
       <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="Flutter logo" />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL logo" />
+
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub logo" />
     </div>
@@ -17,7 +18,7 @@
     <h3>My Stats</h3>
     <div align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucs-severino&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" 
-      height="300" alt="Languages graph" />
+      height="250" alt="Languages graph" />
     </div>
   </div>
 </div>
