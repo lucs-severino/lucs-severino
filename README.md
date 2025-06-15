@@ -5,7 +5,7 @@
     <div align="left">
       <img src="https://skillicons.dev/icons?i=dotnet" height="55" alt=".NET logo" />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="Flutter logo" />
+      <img src="https://skillicons.dev/icons?i=react" height="55" alt="React logo" />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL logo" />
       <img width="12" />
