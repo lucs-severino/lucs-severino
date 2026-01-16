@@ -12,16 +12,4 @@
       <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub logo" />
     </div>
   </div>
-
-  <div style="margin-left: 20px;">
-    <h3>My Stats</h3>
-    <div align="left">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=lucs-severino&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=gruvbox_light&hide_border=true&cache_seconds=1800" 
-        height="200" 
-        alt="Languages graph" 
-      />
-    </div>
-  </div>
-
 </div>
